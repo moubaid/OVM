@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Online Vegetable Market</title>
+<link rel="stylesheet" type="text/css" href="mycss.css"/>
+
+</head>
+
+<body>
+<div class="container" >
+<div class="header">
+  <p>Online Vegetable Market  </p>
+  <div class="he1">
+<marquee behavior="scroll" direction="left">Free home delivery at doorstep</marquee>
+</div>
+</div>
+<div class="nav">
+<ul style="list-style-position:inside">
+<li><a href="index.html">Home</a></li>
+<li><a href="">Vegetables</a></li>
+<li style="background-color:#00CCFF"><a style="color:#CC66FF;" href="fruits.html">Fruits</a></li>
+<li><a href="">Services</a></li>
+<li ><a href="aboutus.html">About Us</a></li>
+</ul>
+</div>
+<div class="content">
+<br/>
+<p id="contentbody">
+Fruits are Indexed here
+</p>
+</div>
+<div class="footer">
+&copy;Copy Right Protecred-Developed by Mohammed Oubaidullah and Shatabdi Kushawaha
+</div>
+</div>
+</body>
+</html>
